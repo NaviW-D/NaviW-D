@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaviW-D
-- 👀 I’m interested in `ًRouting, Switching and .... In fact Everything about Cisco :D`
+- 👀 I’m interested in `ًRouting, Switching and .... Actually Everything about Cisco :D`
 - 🌱 I’m currently learning Python
 - 📫 How to reach me YOU CAN'T
 
