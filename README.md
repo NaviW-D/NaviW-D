@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @NaviW-D
-- 👀 I’m interested in `ًRouting, Switching and .... Actually Everything about Cisco :D`
-- 🌱 I’m currently learning Python
-- 📫 How to reach me YOU CAN'T
+- C'mon Darlin'
 
 <!---
 NaviW-D/NaviW-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
